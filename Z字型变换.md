@@ -19,7 +19,6 @@ string convert(string s, int numRows);
 
 ![image](https://github.com/user-attachments/assets/8af91a49-58ba-44dc-8730-b90b5a6b0d78)
 
-
 示例 3：<br>
 输入：s = "A", numRows = 1<br>
 输出："A"
