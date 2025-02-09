@@ -2,6 +2,9 @@
 给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点。
 
 示例 1：<br>
+
+![image](https://github.com/user-attachments/assets/4d4df763-c674-4f44-b9f0-f46d870afd31)
+
 输入：head = [1,2,3,4,5], n = 2<br>
 输出：[1,2,3,5]
 
